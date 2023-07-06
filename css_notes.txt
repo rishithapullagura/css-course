@@ -1,0 +1,31 @@
+->what is css and its use?
+   1.css stands for cascading style sheets
+   2.used to apply the styles to the html content
+
+   the commonly used terminology:property
+   syntax:property name:itsvalue;
+   example:color:red;
+->to apply the styles to the content:
+1.inline styles
+2.embeded styles
+3.external styles
+->how many colors?
+    -around 256 colors
+    -categorized into 3 different ways
+       1.name
+       2.numerical
+       3.hexadecimal
+         #3 characters
+         #4 characters
+         #6 characters
+          that characters must be in
+          a-f/A-f
+          0-9
+          #3af
+->for particular one we can use
+--->custom styling:
+     1.class-for class we can use no of functions-it reperesents with   .
+     2.id-we cn use unique function-it reperesents with                 #
+
+     BEM:block element modifier
+     .input__search--icon
